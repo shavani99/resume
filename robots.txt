@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /modal/
+Disallow: /functions/
+Sitemap: https://webdurga.com/sitemap.xml
